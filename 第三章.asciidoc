@@ -459,7 +459,7 @@ https://github.com/ethereum/wiki/wiki/JSON-RPC
 [[parity_compatibility_mode]]
 ===== Parity的Geth兼容模式
 
-有一个特殊的“Geth兼容模式”，它提供了一个与+geth+相同的JSON-RPC API。要在Geth兼容模式下运行奇偶校验，请使用+--geth+开关：
+有一个特殊的“Geth兼容模式”，它提供了一个与+geth+相同的JSON-RPC API。要在Geth兼容模式下运行parity，请使用+--geth+开关：
 
 [[parity_geth]]
 ----
