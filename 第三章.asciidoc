@@ -195,7 +195,7 @@ Parity Wiki提供了在不同环境和容器中构建Parity的说明：
 
 https://github.com/paritytech/parity/wiki/Setup
 
-我们将从源代码构建奇偶校验。这假定你已经使用 +rustup+ 安装了Rust（见 <<sw_reqs>>）。
+我们将从源代码构建Parity。这假定你已经使用 +rustup+ 安装了Rust（见 <<sw_reqs>>）。
 
 首先，让我们从GitHub获取源代码：
 
