@@ -18,7 +18,7 @@ nonce:: 由始发EOA（外部所有账户）发出的序列号，用于防止消
 
 gas price:: 发起人愿意支付的gas价格（以wei为单位）。
 
-start gas:: 发起人愿意支付的最大gas量。
+Gas limit:: 发起人愿意支付的最大gas量。
 
 to:: 目标以太坊地址。
 
